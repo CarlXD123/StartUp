@@ -4,7 +4,7 @@ import ScrollToTopOnMount from "../template/ScrollToTopOnMount";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 import Header from "../template/Header";
-import Footer from "../template/Footer";
+
 
 function Landing() {
   return (
